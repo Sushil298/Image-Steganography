@@ -1,7 +1,7 @@
 //**********************************************************************************//
 // *** This program encrypts the secret message into a bmp image  ***************//
 // *** and decodes the secret message encoded into the bmp image ****************//
-// *** Sushil Bohara (sb7702, NYUAD) **//
+// *** Sushil Bohara (NYUAD) **//
 
 #include <iostream>
 #include "Bitmap.h"         // Header file for reading and writing
