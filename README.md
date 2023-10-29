@@ -6,6 +6,6 @@ The objective is to develop a program that can encrypt a text message inside a b
 
 Steganography is a technique of hiding the data (file, text, image, etc.) within another data file (file, text, image, etc.). Assume an image is represented as a three-dimensional array (M-by-N-by-3 array) where M is the number of pixels in the vertical direction (rows) and N is the number of pixels in the horizontal direction(cols), while each 3-vector corresponds to the blue, green, and red intensities of each pixel. The pixel values are 1-byte characters and are between 0 and 255.. A bitmap image has the following structure. 
 
-<img width="223" alt="BMP Image Structure" src="https://github.com/Sushil298/Image-Steganography/assets/80779647/15dc014c-099a-40cd-9d76-c4b701a5da3d">
+<img width="500" alt="BMP Image Structure" src="https://github.com/Sushil298/Image-Steganography/assets/80779647/15dc014c-099a-40cd-9d76-c4b701a5da3d">
 
 
