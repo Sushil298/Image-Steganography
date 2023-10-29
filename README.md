@@ -23,14 +23,14 @@ The process of replacing the last bit of the pixel of the bitmap image with a bi
 # Test Cases
 
 ## Test case 1: Invalid Selection input
-Enter your choice.
-        Enter 'a' for encryption:
-        Enter 'b' for decryption:
-        Enter 'x' to exit:
+Enter your choice.  
+        Enter 'a' for encryption:  
+        Enter 'b' for decryption:  
+        Enter 'x' to exit:  
 
-s(invalid choice)
-(The program must display the error message)
-Invalid Choice. Please enter 'a' or 'b' or 'x'.
+s(invalid choice)  
+(The program must display the error message)  
+Invalid Choice. Please enter 'a' or 'b' or 'x'.  
 
 ## Test case 2: Encryption
 
