@@ -1,6 +1,6 @@
 # Problem Statement
 
-The objective is to develop a program that can insert a text message inside a bitmap image and also extract.  The software presents the user with a main menu, with options to encode a message, decode a message, and exit the program. When the user selects the encode option, he/she is prompted to enter the secret message and the name of the bitmap file where the secret message must be encoded in. When the user selects the decode option, the program prompts the user for the bitmap image(with text encoded into it)’s name, extracts the secret text message, and displays it on the output screen. When the user selects the exit option, a message confirming exit is printed on the screen and the program is terminated. 
+The objective is to develop a program that can insert a text message inside a bitmap image and also extract it.  The software presents the user with a main menu, with options to encode a message, decode a message, and exit the program. When the user selects the encode option, he/she is prompted to enter the secret message and the name of the bitmap file where the secret message must be encoded in. When the user selects the decode option, the program prompts the user for the bitmap image(with text encoded into it)’s name, extracts the secret text message, and displays it on the output screen. When the user selects the exit option, a message confirming exit is printed on the screen and the program is terminated. 
 
 # Relevant Background Information
 
