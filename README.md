@@ -55,7 +55,7 @@ The decryption is done character by character until the null terminating charact
 
 Suppose we have the message “New York University Abu Dhabi !!” encoded into the BMP image. Then we can decode it by the following process.
 The image must have contained the binary bits of all characters in the least significant position of each pixel. So, we take the 8 consecutive pixels of the image and extract the least significant bits. From the first 8 consecutive pixels of the image, we obtain:  01110010 (inverted binary number)  
-The decimal equivalent of this number is: 0\*2^0 + 1\*2^1 + 1\*2^2 + 1\*2^3 + 0\*2^4 + 0\*2^5 + 1\*2^6 +  0\*2^7  
+The decimal equivalent of this number is: 0\*2^0 + 1\*2^1 + 1\*2^2 + 1\*2^3 + 0\*2^4 + 0\*2^5 + 1\*2^6 +  0\*2^7 
                                           = 78  
 The equivalent character of 78 is: N  
 Similarly, next 8 pixels are decoded to get the next character and so on until the null terminating character is found. In this way, the whole message“New York University Abu Dhabi !!” can be decoded.  
